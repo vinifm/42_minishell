@@ -1,5 +1,5 @@
-# minishell
-Mudar a descrição depois
+# Minishell
+This project is a simple shell in C
 
 ## nota de compilação
 utilizar `-lreadline` como em `gcc -Wall -Wextra -Werror nomearquivo.c -lreadline -o nomebinario
